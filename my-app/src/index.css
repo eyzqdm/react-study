@@ -7,14 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-* {
-  margin: 10px;
-  padding: 4px;
-  font-size: 24px;
-
-}
-
-
-.logo {
-  width: 100px;
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
 }
